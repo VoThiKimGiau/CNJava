@@ -1,0 +1,9 @@
+Hóa Đơn
+Mã đơn hàng: DH012
+Tên khách hàng: Nguyễn Văn Hòa
+Số điện thoại: 0941824972
+Địa chỉ: 140 Tây Thạnh, Tân Phú, TPHCM
+Danh sách sản phẩm
+Sách: Làm Ra Làm, Chơi Ra Chơi số lượng: 3 Giá: 330.0
+Sách: Lời Thú Tội Mới Của Một Sát Thủ Kinh Tế số lượng: 1 Giá: 143.0
+Thành tiền: 473.0
